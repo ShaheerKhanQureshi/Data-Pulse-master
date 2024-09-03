@@ -1,4 +1,4 @@
-
+                    **Data Pulse**
 Data Pulse is an end-to-end platform designed to automate data profiling and machine learning model selection. It simplifies complex data analysis tasks for users of all skill levels.
 
 Key Features
